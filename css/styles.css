@@ -1,0 +1,42 @@
+body {
+  background-color: #FEE5B1;
+}
+
+h1 {
+    font-size: 100px;
+    color: #1A2634;
+    align-content: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: #1A2634;
+    align-content: center;
+}
+
+img {
+  filter: blur(100px);
+}
+
+img:hover {
+  filter: blur(0);
+}
+
+p {
+  color: #203E5F;
+  font-size:20px;
+  text-indent: 5em each-line;
+}
+
+table {
+  font-size: 20px;
+}
+
+#dedex {
+  font-size: 200px;
+  color: red;
+ }
+
+#dedex_gif {
+  filter: blur(0);
+}
